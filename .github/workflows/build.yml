@@ -13,10 +13,10 @@ on:
 
     
 env:
-  ROM_URL: https://do6prasq.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/m2391/10.0.2.0/demo/20230329190409/969555af/update.zip?xyip=112.65.29.39&xyct=158&xy_nosvr=true&xy_usource=download-xys.meizu.com&xy_rid=*1Oz19wi*Tq2R4&xy_oid=43158&xy_nc=2NvfI1==
+  ROM_URL: https://16-samfw.cloud/v2/IxJCDiMnLh41A0EsMjEuGwMbNDk8Nh4lFzssIDs2ByAzMUEgOzEUQDMQMCMBOyw/NDEpHTJAHjsNFzM1EgsIMQM4QRA8NhQwLwcpGjQ7PiMvAx4wOxsuFgMIQRIXAylANSQ0JB4wNDkPLAI4FzYuBAMlAjk1Fg0UMhsiQDsnKQguERQeMhcxFDVABkIeCzwGHgM8FCMkNDEjCxVACTghHzInDQYuFx8rIwAvJCFAMxE8EQY5NRshDjURPho0ES8kNRYhOR44LwsJEQc5NBsjKyEAPg4hAAYsLjgeLDQRHg4yJTMsMiUNKzwAPh8mGzk5FyUzDTUHQQEuByADISxBIwMnOUANQAokMzYCICMXPjkDFzA1CS8pDTsxHhwzQAZCOzEHHjMsNCsNMT4eODAeHgk7CDAjCykEODFBEhIvPiAeAwUdDSwCOzskLicXCCMdOAAhKTw/FD01OCBCJicwLDIxQTA0Byk6HgM0MS8DISsXFzEkIwAeQBI7PikuFwcSIwgfEAM2FCUjOAZCIwM0Bh4WBSQeAzwdHhUTEw==
   ROM_NAME: Generic
   BUILD_TYPE: ab
-  TZ: Asia/Shanghai
+  TZ: Asia/Taipei
 
 jobs:
   build:
